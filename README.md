@@ -1,0 +1,2 @@
+# wechat_group_bot
+使用RAG学习群消息的群聊机器人，支持本地ollama部署
